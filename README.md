@@ -6,16 +6,13 @@
 </br>
 <p align="center">
   <em>
-    Minecraft Server Configurator<br>
-    I Worked In Several Minecraft Servers<br>
-    Current Focus: JavasCript Bots Discord<br>
-    Learning about plugin development like visual studio blockbench mods (etc)<br>
+    hola soy Alex me gusta lo que es programar bots y hacer mods para minecraft<br>
   </a>
 </p>
 
 ---
 
-### 🛠️ **Knowledge** (i can do a "hello world" in:) </br>
+### 🛠️ **Knowledge** </br>
 </br>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
