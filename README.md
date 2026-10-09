@@ -6,7 +6,7 @@
 </br>
 <p align="center">
   <em>
-    hola soy Alex me gusta lo que es programar bots y hacer mods para minecraft<br>
+    hola me llamo Alex me gusta lo que es programar bots y hacer mods para minecraft fabric<br>
   </a>
 </p>
 
